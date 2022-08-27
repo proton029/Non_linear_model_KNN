@@ -1,4 +1,4 @@
-## Machine Learnig Models used in this Repo,
+## Machine Learning Models used in this Repo,
 - knn on dataset sonardata.csv
 - Support Vector machine classifier
 - Decision Tree
